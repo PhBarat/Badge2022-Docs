@@ -1,0 +1,5 @@
+https://github.com/neoeinstein/bouncycastle/blob/master/crypto/src/security/DotNetUtilities.cs
+
+
+https://github.com/Technosaviour/RSA-net-core/blob/RSA-Angular-net-core/RSA/RSAHelper.cs
+
